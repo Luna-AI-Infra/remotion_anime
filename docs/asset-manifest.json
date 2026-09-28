@@ -1,0 +1,77 @@
+[
+  {
+    "path": "docs/images/A-mint-director.png",
+    "bytes": 2165395,
+    "sha256": "176b3e2a30355b759e3f2732b686684765180ebe2a166d238758088b775ed28c"
+  },
+  {
+    "path": "docs/images/B-knot-mascot.png",
+    "bytes": 1505382,
+    "sha256": "63c47f8ffc84f03b4e3a3c861f768389253c71e4018905801f025d9cd62ee78d"
+  },
+  {
+    "path": "docs/images/C-terminal-robot.png",
+    "bytes": 2317357,
+    "sha256": "94cd58016530c8ddd47f7bf8027629363384ed344b7af09a6d5f36e0d5621fda"
+  },
+  {
+    "path": "docs/images/codex-330.png",
+    "bytes": 393737,
+    "sha256": "394ba48e6365ca757caeabc5f4cc113f4d5d7783fcdb9c77dac4cbb65b9f9429"
+  },
+  {
+    "path": "docs/images/codex-510.png",
+    "bytes": 463903,
+    "sha256": "77ccd1d340eae65725862cd349633c00aa5965feb757e5c6b87f877fcf7513da"
+  },
+  {
+    "path": "docs/images/codex-795.png",
+    "bytes": 511621,
+    "sha256": "c8c515272587c99435b576b8a416b14f3be91df79cbf80d4e4466f60a179ee5c"
+  },
+  {
+    "path": "docs/images/codex-90.png",
+    "bytes": 438697,
+    "sha256": "90b62c52c69bf4d6cd9c6bd2bd8a068ef448e3680ec8065a6f7839a7120876d8"
+  },
+  {
+    "path": "docs/images/deepseek-330.png",
+    "bytes": 1036500,
+    "sha256": "c9bbc5fbf607d5e3a24277c44e459fb50ae3a942cbce58ba396bbf4707b4e5c3"
+  },
+  {
+    "path": "docs/images/deepseek-510.png",
+    "bytes": 1045964,
+    "sha256": "83431f83a258c5f141e3e7f34f171560be68b5014c04f23507f3a94a3d6f8f53"
+  },
+  {
+    "path": "docs/images/deepseek-795.png",
+    "bytes": 1051162,
+    "sha256": "051ab8b6cc688edb312e03987086305612fccfdd8515786bfe9b6abbdcdd1116"
+  },
+  {
+    "path": "docs/images/deepseek-90.png",
+    "bytes": 1095020,
+    "sha256": "2ec138bfaf4b234660900a823a9109b340adbe4d7faedea0413108fd469e3e20"
+  },
+  {
+    "path": "public/audio/codex.wav",
+    "bytes": 5875244,
+    "sha256": "8da0a7b05ff2a1a1ae7a0f88debe5fbde3b3ad796d69b3e0b4710bd4ebe876c5"
+  },
+  {
+    "path": "public/audio/deepseek.wav",
+    "bytes": 5477264,
+    "sha256": "8a3f3e35c17e2eb4534f027070d742d3caef930c939152530361d5f8ff44b006"
+  },
+  {
+    "path": "public/textures/codex-paper.png",
+    "bytes": 214875,
+    "sha256": "ba309928a9c7c10b18aa2bd0e636fecf3a26ec6023e530b24f917f49d4469dfe"
+  },
+  {
+    "path": "public/textures/deepseek-paper.png",
+    "bytes": 1633174,
+    "sha256": "0dbb56d9f85c20b4c75f9d4327514e9bc58cb458bd90a2a8a88f0eea8ef61d8b"
+  }
+]

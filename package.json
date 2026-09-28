@@ -1,0 +1,30 @@
+{
+  "name": "remotion-anime",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "node scripts/render.mjs",
+    "stills": "node scripts/render.mjs stills",
+    "test": "node scripts/verify-state.cjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-sc": "5.3.0",
+    "@remotion/bundler": "4.0.513",
+    "@remotion/cli": "4.0.513",
+    "@remotion/renderer": "4.0.513",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.513"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "@types/react-dom": "19.0.0",
+    "typescript": "5.9.3"
+  }
+}

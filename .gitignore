@@ -1,0 +1,9 @@
+node_modules/
+out/
+.remotion/
+*.log
+.env*
+.claude/
+.codex/
+__pycache__/
+public/audio/codex-stems/
