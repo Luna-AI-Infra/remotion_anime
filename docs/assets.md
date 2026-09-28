@@ -13,6 +13,6 @@
 | 本仓库渲染图 | `docs/images/codex-*.png`、`deepseek-*.png` | `npm run stills` | README 实际预览 |
 | 中文字体 | npm 包 `@fontsource/noto-sans-sc` | Noto Sans SC，OFL-1.1 | 两版统一字体 |
 
-全部文件校验值见 [asset-manifest.json](asset-manifest.json)。PNG 已重新编码去除文本/EXIF 元数据，WAV 为 PCM 数据。没有打包原作者视频、账户头像、运行日志、原始聊天会话、API 设置、凭据或私人目录。
+全部文件校验值见 [asset-manifest.json](asset-manifest.json)。
 
-图像生成不保证重新调用时得到逐像素相同的设计稿；已选的最终 SVG 与提交的音频/纹理可直接渲染，无需再次调用图像模型。
+最终 SVG、音频和纹理已随仓库提供，可直接渲染。

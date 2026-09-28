@@ -8,7 +8,7 @@
 |---|---|
 | ![Codex 渲染画面](docs/images/codex-795.png) | ![DeepSeek 渲染画面](docs/images/deepseek-795.png) |
 
-参考原作：**大师的AI小灶**。机器人动画由 Codex 制作；小鲸动画由 DeepSeek 起稿、Codex 后续完善。仓库不包含原作者的视频、音乐或代码。
+参考原作：**大师的AI小灶**。机器人动画由 Codex 制作；小鲸动画由 DeepSeek 起稿、Codex 后续完善。
 
 ## 快速开始
 
